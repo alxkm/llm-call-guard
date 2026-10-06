@@ -1,0 +1,392 @@
+S01  spring-ai-2.0.1     sync   defaults #1 OK      att=1 gaps=[] guard=- kind=- 
+S01  spring-ai-2.0.1     sync   defaults #2 OK      att=1 gaps=[] guard=- kind=- 
+S01  spring-ai-2.0.1     sync   defaults #3 OK      att=1 gaps=[] guard=- kind=- 
+S01  spring-ai-2.0.1     sync   explicit #1 OK      att=1 gaps=[] guard=- kind=- 
+S01  spring-ai-2.0.1     sync   explicit #2 OK      att=1 gaps=[] guard=- kind=- 
+S01  spring-ai-2.0.1     sync   explicit #3 OK      att=1 gaps=[] guard=- kind=- 
+S01  spring-ai-2.0.1     sync   guard    #1 OK      att=1 gaps=[] guard=success/none/1 kind=- 
+S01  spring-ai-2.0.1     sync   guard    #2 OK      att=1 gaps=[] guard=success/none/1 kind=- 
+S01  spring-ai-2.0.1     sync   guard    #3 OK      att=1 gaps=[] guard=success/none/1 kind=- 
+S01  spring-ai-2.0.1     stream defaults #1 OK      att=1 gaps=[] guard=- kind=- 
+S01  spring-ai-2.0.1     stream defaults #2 OK      att=1 gaps=[] guard=- kind=- 
+S01  spring-ai-2.0.1     stream defaults #3 OK      att=1 gaps=[] guard=- kind=- 
+S01  spring-ai-2.0.1     stream explicit #1 OK      att=1 gaps=[] guard=- kind=- 
+S01  spring-ai-2.0.1     stream explicit #2 OK      att=1 gaps=[] guard=- kind=- 
+S01  spring-ai-2.0.1     stream explicit #3 OK      att=1 gaps=[] guard=- kind=- 
+S01  spring-ai-2.0.1     stream guard    #1 OK      att=1 gaps=[] guard=success/none/1 kind=- 
+S01  spring-ai-2.0.1     stream guard    #2 OK      att=1 gaps=[] guard=success/none/1 kind=- 
+S01  spring-ai-2.0.1     stream guard    #3 OK      att=1 gaps=[] guard=success/none/1 kind=- 
+S01  langchain4j-1.21.0  sync   defaults #1 OK      att=1 gaps=[] guard=- kind=- 
+S01  langchain4j-1.21.0  sync   defaults #2 OK      att=1 gaps=[] guard=- kind=- 
+S01  langchain4j-1.21.0  sync   defaults #3 OK      att=1 gaps=[] guard=- kind=- 
+S01  langchain4j-1.21.0  sync   explicit #1 OK      att=1 gaps=[] guard=- kind=- 
+S01  langchain4j-1.21.0  sync   explicit #2 OK      att=1 gaps=[] guard=- kind=- 
+S01  langchain4j-1.21.0  sync   explicit #3 OK      att=1 gaps=[] guard=- kind=- 
+S01  langchain4j-1.21.0  sync   guard    #1 OK      att=1 gaps=[] guard=success/none/1 kind=- 
+S01  langchain4j-1.21.0  sync   guard    #2 OK      att=1 gaps=[] guard=success/none/1 kind=- 
+S01  langchain4j-1.21.0  sync   guard    #3 OK      att=1 gaps=[] guard=success/none/1 kind=- 
+S01  langchain4j-1.21.0  stream defaults #1 OK      att=1 gaps=[] guard=- kind=- 
+S01  langchain4j-1.21.0  stream defaults #2 OK      att=1 gaps=[] guard=- kind=- 
+S01  langchain4j-1.21.0  stream defaults #3 OK      att=1 gaps=[] guard=- kind=- 
+S01  langchain4j-1.21.0  stream explicit #1 OK      att=1 gaps=[] guard=- kind=- 
+S01  langchain4j-1.21.0  stream explicit #2 OK      att=1 gaps=[] guard=- kind=- 
+S01  langchain4j-1.21.0  stream explicit #3 OK      att=1 gaps=[] guard=- kind=- 
+S01  langchain4j-1.21.0  stream guard    #1 OK      att=1 gaps=[] guard=success/none/1 kind=- 
+S01  langchain4j-1.21.0  stream guard    #2 OK      att=1 gaps=[] guard=success/none/1 kind=- 
+S01  langchain4j-1.21.0  stream guard    #3 OK      att=1 gaps=[] guard=success/none/1 kind=- 
+S01  plain-java.net.http sync   guard    #1 OK      att=1 gaps=[] guard=success/none/1 kind=- 
+S01  plain-java.net.http sync   guard    #2 OK      att=1 gaps=[] guard=success/none/1 kind=- 
+S01  plain-java.net.http sync   guard    #3 OK      att=1 gaps=[] guard=success/none/1 kind=- 
+S01  plain-java.net.http stream guard    #1 OK      att=1 gaps=[] guard=success/none/1 kind=- 
+S01  plain-java.net.http stream guard    #2 OK      att=1 gaps=[] guard=success/none/1 kind=- 
+S01  plain-java.net.http stream guard    #3 OK      att=1 gaps=[] guard=success/none/1 kind=- 
+S02  spring-ai-2.0.1     sync   defaults #1 OK      att=2 gaps=[471] guard=- kind=- 
+S02  spring-ai-2.0.1     sync   defaults #2 OK      att=2 gaps=[483] guard=- kind=- 
+S02  spring-ai-2.0.1     sync   defaults #3 OK      att=2 gaps=[405] guard=- kind=- 
+S02  spring-ai-2.0.1     sync   explicit #1 OK      att=2 gaps=[462] guard=- kind=- 
+S02  spring-ai-2.0.1     sync   explicit #2 OK      att=2 gaps=[384] guard=- kind=- 
+S02  spring-ai-2.0.1     sync   explicit #3 OK      att=2 gaps=[471] guard=- kind=- 
+S02  spring-ai-2.0.1     sync   guard    #1 OK      att=2 gaps=[491] guard=success/none/2 kind=- 
+S02  spring-ai-2.0.1     sync   guard    #2 OK      att=2 gaps=[489] guard=success/none/2 kind=- 
+S02  spring-ai-2.0.1     sync   guard    #3 OK      att=2 gaps=[489] guard=success/none/2 kind=- 
+S02  spring-ai-2.0.1     stream defaults #1 OK      att=2 gaps=[386] guard=- kind=- 
+S02  spring-ai-2.0.1     stream defaults #2 OK      att=2 gaps=[492] guard=- kind=- 
+S02  spring-ai-2.0.1     stream defaults #3 OK      att=2 gaps=[500] guard=- kind=- 
+S02  spring-ai-2.0.1     stream explicit #1 OK      att=2 gaps=[445] guard=- kind=- 
+S02  spring-ai-2.0.1     stream explicit #2 OK      att=2 gaps=[477] guard=- kind=- 
+S02  spring-ai-2.0.1     stream explicit #3 OK      att=2 gaps=[423] guard=- kind=- 
+S02  spring-ai-2.0.1     stream guard    #1 OK      att=2 gaps=[488] guard=success/none/2 kind=- 
+S02  spring-ai-2.0.1     stream guard    #2 OK      att=2 gaps=[488] guard=success/none/2 kind=- 
+S02  spring-ai-2.0.1     stream guard    #3 OK      att=2 gaps=[487] guard=success/none/2 kind=- 
+S02  langchain4j-1.21.0  sync   defaults #1 OK      att=2 gaps=[583] guard=- kind=- 
+S02  langchain4j-1.21.0  sync   defaults #2 OK      att=2 gaps=[547] guard=- kind=- 
+S02  langchain4j-1.21.0  sync   defaults #3 OK      att=2 gaps=[534] guard=- kind=- 
+S02  langchain4j-1.21.0  sync   explicit #1 OK      att=2 gaps=[548] guard=- kind=- 
+S02  langchain4j-1.21.0  sync   explicit #2 OK      att=2 gaps=[597] guard=- kind=- 
+S02  langchain4j-1.21.0  sync   explicit #3 OK      att=2 gaps=[544] guard=- kind=- 
+S02  langchain4j-1.21.0  sync   guard    #1 OK      att=2 gaps=[488] guard=success/none/2 kind=- 
+S02  langchain4j-1.21.0  sync   guard    #2 OK      att=2 gaps=[488] guard=success/none/2 kind=- 
+S02  langchain4j-1.21.0  sync   guard    #3 OK      att=2 gaps=[489] guard=success/none/2 kind=- 
+S02  langchain4j-1.21.0  stream defaults #1 ERROR   att=1 gaps=[] guard=- kind=- InternalServerException < HttpException
+S02  langchain4j-1.21.0  stream defaults #2 ERROR   att=1 gaps=[] guard=- kind=- InternalServerException < HttpException
+S02  langchain4j-1.21.0  stream defaults #3 ERROR   att=1 gaps=[] guard=- kind=- InternalServerException < HttpException
+S02  langchain4j-1.21.0  stream explicit #1 ERROR   att=1 gaps=[] guard=- kind=- InternalServerException < HttpException
+S02  langchain4j-1.21.0  stream explicit #2 ERROR   att=1 gaps=[] guard=- kind=- InternalServerException < HttpException
+S02  langchain4j-1.21.0  stream explicit #3 ERROR   att=1 gaps=[] guard=- kind=- InternalServerException < HttpException
+S02  langchain4j-1.21.0  stream guard    #1 OK      att=2 gaps=[488] guard=success/none/2 kind=- 
+S02  langchain4j-1.21.0  stream guard    #2 OK      att=2 gaps=[488] guard=success/none/2 kind=- 
+S02  langchain4j-1.21.0  stream guard    #3 OK      att=2 gaps=[489] guard=success/none/2 kind=- 
+S02  plain-java.net.http sync   guard    #1 OK      att=2 gaps=[488] guard=success/none/2 kind=- 
+S02  plain-java.net.http sync   guard    #2 OK      att=2 gaps=[489] guard=success/none/2 kind=- 
+S02  plain-java.net.http sync   guard    #3 OK      att=2 gaps=[488] guard=success/none/2 kind=- 
+S02  plain-java.net.http stream guard    #1 OK      att=2 gaps=[488] guard=success/none/2 kind=- 
+S02  plain-java.net.http stream guard    #2 OK      att=2 gaps=[488] guard=success/none/2 kind=- 
+S02  plain-java.net.http stream guard    #3 OK      att=2 gaps=[489] guard=success/none/2 kind=- 
+S03  spring-ai-2.0.1     sync   defaults #1 ERROR   att=4 gaps=[453, 997, 1676] guard=- kind=- InternalServerException
+S03  spring-ai-2.0.1     sync   defaults #2 ERROR   att=4 gaps=[387, 998, 1648] guard=- kind=- InternalServerException
+S03  spring-ai-2.0.1     sync   defaults #3 ERROR   att=4 gaps=[468, 894, 1859] guard=- kind=- InternalServerException
+S03  spring-ai-2.0.1     sync   explicit #1 ERROR   att=3 gaps=[377, 911] guard=- kind=- InternalServerException
+S03  spring-ai-2.0.1     sync   explicit #2 ERROR   att=3 gaps=[494, 842] guard=- kind=- InternalServerException
+S03  spring-ai-2.0.1     sync   explicit #3 ERROR   att=3 gaps=[448, 817] guard=- kind=- InternalServerException
+S03  spring-ai-2.0.1     sync   guard    #1 ERROR   att=3 gaps=[487, 647] guard=failure/server-error/3 kind=- InternalServerException
+S03  spring-ai-2.0.1     sync   guard    #2 ERROR   att=3 gaps=[487, 645] guard=failure/server-error/3 kind=- InternalServerException
+S03  spring-ai-2.0.1     sync   guard    #3 ERROR   att=3 gaps=[489, 645] guard=failure/server-error/3 kind=- InternalServerException
+S03  spring-ai-2.0.1     stream defaults #1 ERROR   att=4 gaps=[394, 827, 1504] guard=- kind=- CompletionException < InternalServerException
+S03  spring-ai-2.0.1     stream defaults #2 ERROR   att=4 gaps=[437, 805, 1903] guard=- kind=- CompletionException < InternalServerException
+S03  spring-ai-2.0.1     stream defaults #3 ERROR   att=4 gaps=[392, 872, 1843] guard=- kind=- CompletionException < InternalServerException
+S03  spring-ai-2.0.1     stream explicit #1 ERROR   att=3 gaps=[403, 962] guard=- kind=- CompletionException < InternalServerException
+S03  spring-ai-2.0.1     stream explicit #2 ERROR   att=3 gaps=[466, 973] guard=- kind=- CompletionException < InternalServerException
+S03  spring-ai-2.0.1     stream explicit #3 ERROR   att=3 gaps=[455, 858] guard=- kind=- CompletionException < InternalServerException
+S03  spring-ai-2.0.1     stream guard    #1 ERROR   att=3 gaps=[487, 645] guard=failure/server-error/3 kind=- CompletionException < InternalServerException
+S03  spring-ai-2.0.1     stream guard    #2 ERROR   att=3 gaps=[487, 655] guard=failure/server-error/3 kind=- CompletionException < InternalServerException
+S03  spring-ai-2.0.1     stream guard    #3 ERROR   att=3 gaps=[488, 645] guard=failure/server-error/3 kind=- CompletionException < InternalServerException
+S03  langchain4j-1.21.0  sync   defaults #1 ERROR   att=3 gaps=[526, 787] guard=- kind=- InternalServerException < HttpException
+S03  langchain4j-1.21.0  sync   defaults #2 ERROR   att=3 gaps=[595, 879] guard=- kind=- InternalServerException < HttpException
+S03  langchain4j-1.21.0  sync   defaults #3 ERROR   att=3 gaps=[510, 784] guard=- kind=- InternalServerException < HttpException
+S03  langchain4j-1.21.0  sync   explicit #1 ERROR   att=3 gaps=[519, 829] guard=- kind=- InternalServerException < HttpException
+S03  langchain4j-1.21.0  sync   explicit #2 ERROR   att=3 gaps=[601, 898] guard=- kind=- InternalServerException < HttpException
+S03  langchain4j-1.21.0  sync   explicit #3 ERROR   att=3 gaps=[584, 823] guard=- kind=- InternalServerException < HttpException
+S03  langchain4j-1.21.0  sync   guard    #1 ERROR   att=3 gaps=[487, 647] guard=failure/server-error/3 kind=- InternalServerException < HttpException
+S03  langchain4j-1.21.0  sync   guard    #2 ERROR   att=3 gaps=[488, 646] guard=failure/server-error/3 kind=- InternalServerException < HttpException
+S03  langchain4j-1.21.0  sync   guard    #3 ERROR   att=3 gaps=[488, 646] guard=failure/server-error/3 kind=- InternalServerException < HttpException
+S03  langchain4j-1.21.0  stream defaults #1 ERROR   att=1 gaps=[] guard=- kind=- InternalServerException < HttpException
+S03  langchain4j-1.21.0  stream defaults #2 ERROR   att=1 gaps=[] guard=- kind=- InternalServerException < HttpException
+S03  langchain4j-1.21.0  stream defaults #3 ERROR   att=1 gaps=[] guard=- kind=- InternalServerException < HttpException
+S03  langchain4j-1.21.0  stream explicit #1 ERROR   att=1 gaps=[] guard=- kind=- InternalServerException < HttpException
+S03  langchain4j-1.21.0  stream explicit #2 ERROR   att=1 gaps=[] guard=- kind=- InternalServerException < HttpException
+S03  langchain4j-1.21.0  stream explicit #3 ERROR   att=1 gaps=[] guard=- kind=- InternalServerException < HttpException
+S03  langchain4j-1.21.0  stream guard    #1 ERROR   att=3 gaps=[498, 651] guard=failure/server-error/3 kind=- InternalServerException < HttpException
+S03  langchain4j-1.21.0  stream guard    #2 ERROR   att=3 gaps=[493, 652] guard=failure/server-error/3 kind=- InternalServerException < HttpException
+S03  langchain4j-1.21.0  stream guard    #3 ERROR   att=3 gaps=[490, 655] guard=failure/server-error/3 kind=- InternalServerException < HttpException
+S03  plain-java.net.http sync   guard    #1 ERROR   att=3 gaps=[487, 646] guard=failure/server-error/3 kind=- IllegalStateException
+S03  plain-java.net.http sync   guard    #2 ERROR   att=3 gaps=[488, 647] guard=failure/server-error/3 kind=- IllegalStateException
+S03  plain-java.net.http sync   guard    #3 ERROR   att=3 gaps=[488, 646] guard=failure/server-error/3 kind=- IllegalStateException
+S03  plain-java.net.http stream guard    #1 ERROR   att=3 gaps=[488, 646] guard=failure/server-error/3 kind=- IllegalStateException
+S03  plain-java.net.http stream guard    #2 ERROR   att=3 gaps=[488, 645] guard=failure/server-error/3 kind=- IllegalStateException
+S03  plain-java.net.http stream guard    #3 ERROR   att=3 gaps=[488, 647] guard=failure/server-error/3 kind=- IllegalStateException
+S04  spring-ai-2.0.1     sync   defaults #1 OK      att=2 gaps=[3005] guard=- kind=- 
+S04  spring-ai-2.0.1     sync   defaults #2 OK      att=2 gaps=[3002] guard=- kind=- 
+S04  spring-ai-2.0.1     sync   defaults #3 OK      att=2 gaps=[3013] guard=- kind=- 
+S04  spring-ai-2.0.1     sync   explicit #1 OK      att=2 gaps=[3004] guard=- kind=- 
+S04  spring-ai-2.0.1     sync   explicit #2 OK      att=2 gaps=[3011] guard=- kind=- 
+S04  spring-ai-2.0.1     sync   explicit #3 OK      att=2 gaps=[3014] guard=- kind=- 
+S04  spring-ai-2.0.1     sync   guard    #1 OK      att=2 gaps=[3002] guard=success/none/2 kind=- 
+S04  spring-ai-2.0.1     sync   guard    #2 OK      att=2 gaps=[3002] guard=success/none/2 kind=- 
+S04  spring-ai-2.0.1     sync   guard    #3 OK      att=2 gaps=[3001] guard=success/none/2 kind=- 
+S04  spring-ai-2.0.1     stream defaults #1 OK      att=2 gaps=[3016] guard=- kind=- 
+S04  spring-ai-2.0.1     stream defaults #2 OK      att=2 gaps=[3002] guard=- kind=- 
+S04  spring-ai-2.0.1     stream defaults #3 OK      att=2 gaps=[3004] guard=- kind=- 
+S04  spring-ai-2.0.1     stream explicit #1 OK      att=2 gaps=[3015] guard=- kind=- 
+S04  spring-ai-2.0.1     stream explicit #2 OK      att=2 gaps=[3010] guard=- kind=- 
+S04  spring-ai-2.0.1     stream explicit #3 OK      att=2 gaps=[3013] guard=- kind=- 
+S04  spring-ai-2.0.1     stream guard    #1 OK      att=2 gaps=[3007] guard=success/none/2 kind=- 
+S04  spring-ai-2.0.1     stream guard    #2 OK      att=2 gaps=[3003] guard=success/none/2 kind=- 
+S04  spring-ai-2.0.1     stream guard    #3 OK      att=2 gaps=[3001] guard=success/none/2 kind=- 
+S04  langchain4j-1.21.0  sync   defaults #1 OK      att=2 gaps=[530] guard=- kind=- 
+S04  langchain4j-1.21.0  sync   defaults #2 OK      att=2 gaps=[585] guard=- kind=- 
+S04  langchain4j-1.21.0  sync   defaults #3 OK      att=2 gaps=[528] guard=- kind=- 
+S04  langchain4j-1.21.0  sync   explicit #1 OK      att=2 gaps=[509] guard=- kind=- 
+S04  langchain4j-1.21.0  sync   explicit #2 OK      att=2 gaps=[507] guard=- kind=- 
+S04  langchain4j-1.21.0  sync   explicit #3 OK      att=2 gaps=[581] guard=- kind=- 
+S04  langchain4j-1.21.0  sync   guard    #1 OK      att=2 gaps=[3002] guard=success/none/2 kind=- 
+S04  langchain4j-1.21.0  sync   guard    #2 OK      att=2 gaps=[3002] guard=success/none/2 kind=- 
+S04  langchain4j-1.21.0  sync   guard    #3 OK      att=2 gaps=[3002] guard=success/none/2 kind=- 
+S04  langchain4j-1.21.0  stream defaults #1 ERROR   att=1 gaps=[] guard=- kind=- RateLimitException < HttpException
+S04  langchain4j-1.21.0  stream defaults #2 ERROR   att=1 gaps=[] guard=- kind=- RateLimitException < HttpException
+S04  langchain4j-1.21.0  stream defaults #3 ERROR   att=1 gaps=[] guard=- kind=- RateLimitException < HttpException
+S04  langchain4j-1.21.0  stream explicit #1 ERROR   att=1 gaps=[] guard=- kind=- RateLimitException < HttpException
+S04  langchain4j-1.21.0  stream explicit #2 ERROR   att=1 gaps=[] guard=- kind=- RateLimitException < HttpException
+S04  langchain4j-1.21.0  stream explicit #3 ERROR   att=1 gaps=[] guard=- kind=- RateLimitException < HttpException
+S04  langchain4j-1.21.0  stream guard    #1 OK      att=2 gaps=[3002] guard=success/none/2 kind=- 
+S04  langchain4j-1.21.0  stream guard    #2 OK      att=2 gaps=[3002] guard=success/none/2 kind=- 
+S04  langchain4j-1.21.0  stream guard    #3 OK      att=2 gaps=[3003] guard=success/none/2 kind=- 
+S04  plain-java.net.http sync   guard    #1 OK      att=2 gaps=[3002] guard=success/none/2 kind=- 
+S04  plain-java.net.http sync   guard    #2 OK      att=2 gaps=[3002] guard=success/none/2 kind=- 
+S04  plain-java.net.http sync   guard    #3 OK      att=2 gaps=[3003] guard=success/none/2 kind=- 
+S04  plain-java.net.http stream guard    #1 OK      att=2 gaps=[3002] guard=success/none/2 kind=- 
+S04  plain-java.net.http stream guard    #2 OK      att=2 gaps=[3003] guard=success/none/2 kind=- 
+S04  plain-java.net.http stream guard    #3 OK      att=2 gaps=[3002] guard=success/none/2 kind=- 
+S05  spring-ai-2.0.1     sync   defaults #1 ERROR   att=4 gaps=[3005, 3004, 3001] guard=- kind=- RateLimitException
+S05  spring-ai-2.0.1     sync   defaults #2 ERROR   att=4 gaps=[3002, 3004, 3003] guard=- kind=- RateLimitException
+S05  spring-ai-2.0.1     sync   defaults #3 ERROR   att=4 gaps=[3011, 3001, 3002] guard=- kind=- RateLimitException
+S05  spring-ai-2.0.1     sync   explicit #1 ERROR   att=3 gaps=[3014, 3012] guard=- kind=- RateLimitException
+S05  spring-ai-2.0.1     sync   explicit #2 ERROR   att=3 gaps=[3010, 3005] guard=- kind=- RateLimitException
+S05  spring-ai-2.0.1     sync   explicit #3 ERROR   att=3 gaps=[3001, 3001] guard=- kind=- RateLimitException
+S05  spring-ai-2.0.1     sync   guard    #1 ERROR   att=3 gaps=[3001, 3001] guard=failure/rate-limited/3 kind=- RateLimitException
+S05  spring-ai-2.0.1     sync   guard    #2 ERROR   att=3 gaps=[3001, 3001] guard=failure/rate-limited/3 kind=- RateLimitException
+S05  spring-ai-2.0.1     sync   guard    #3 ERROR   att=3 gaps=[3001, 3001] guard=failure/rate-limited/3 kind=- RateLimitException
+S05  langchain4j-1.21.0  sync   defaults #1 ERROR   att=3 gaps=[577, 774] guard=- kind=- RateLimitException < HttpException
+S05  langchain4j-1.21.0  sync   defaults #2 ERROR   att=3 gaps=[587, 800] guard=- kind=- RateLimitException < HttpException
+S05  langchain4j-1.21.0  sync   defaults #3 ERROR   att=3 gaps=[539, 882] guard=- kind=- RateLimitException < HttpException
+S05  langchain4j-1.21.0  sync   explicit #1 ERROR   att=3 gaps=[593, 877] guard=- kind=- RateLimitException < HttpException
+S05  langchain4j-1.21.0  sync   explicit #2 ERROR   att=3 gaps=[574, 901] guard=- kind=- RateLimitException < HttpException
+S05  langchain4j-1.21.0  sync   explicit #3 ERROR   att=3 gaps=[531, 806] guard=- kind=- RateLimitException < HttpException
+S05  langchain4j-1.21.0  sync   guard    #1 ERROR   att=3 gaps=[3002, 3002] guard=failure/rate-limited/3 kind=- RateLimitException < HttpException
+S05  langchain4j-1.21.0  sync   guard    #2 ERROR   att=3 gaps=[3002, 3001] guard=failure/rate-limited/3 kind=- RateLimitException < HttpException
+S05  langchain4j-1.21.0  sync   guard    #3 ERROR   att=3 gaps=[3003, 3001] guard=failure/rate-limited/3 kind=- RateLimitException < HttpException
+S05  plain-java.net.http sync   guard    #1 ERROR   att=3 gaps=[3002, 3001] guard=failure/rate-limited/3 kind=- IllegalStateException
+S05  plain-java.net.http sync   guard    #2 ERROR   att=3 gaps=[3002, 3001] guard=failure/rate-limited/3 kind=- IllegalStateException
+S05  plain-java.net.http sync   guard    #3 ERROR   att=3 gaps=[3002, 3002] guard=failure/rate-limited/3 kind=- IllegalStateException
+S06  spring-ai-2.0.1     sync   defaults #1 ERROR   att=1 gaps=[] guard=- kind=- BadRequestException
+S06  spring-ai-2.0.1     sync   defaults #2 ERROR   att=1 gaps=[] guard=- kind=- BadRequestException
+S06  spring-ai-2.0.1     sync   defaults #3 ERROR   att=1 gaps=[] guard=- kind=- BadRequestException
+S06  spring-ai-2.0.1     sync   explicit #1 ERROR   att=1 gaps=[] guard=- kind=- BadRequestException
+S06  spring-ai-2.0.1     sync   explicit #2 ERROR   att=1 gaps=[] guard=- kind=- BadRequestException
+S06  spring-ai-2.0.1     sync   explicit #3 ERROR   att=1 gaps=[] guard=- kind=- BadRequestException
+S06  spring-ai-2.0.1     sync   guard    #1 ERROR   att=1 gaps=[] guard=failure/client-error/1 kind=- BadRequestException
+S06  spring-ai-2.0.1     sync   guard    #2 ERROR   att=1 gaps=[] guard=failure/client-error/1 kind=- BadRequestException
+S06  spring-ai-2.0.1     sync   guard    #3 ERROR   att=1 gaps=[] guard=failure/client-error/1 kind=- BadRequestException
+S06  spring-ai-2.0.1     stream defaults #1 ERROR   att=1 gaps=[] guard=- kind=- CompletionException < BadRequestException
+S06  spring-ai-2.0.1     stream defaults #2 ERROR   att=1 gaps=[] guard=- kind=- CompletionException < BadRequestException
+S06  spring-ai-2.0.1     stream defaults #3 ERROR   att=1 gaps=[] guard=- kind=- CompletionException < BadRequestException
+S06  spring-ai-2.0.1     stream explicit #1 ERROR   att=1 gaps=[] guard=- kind=- CompletionException < BadRequestException
+S06  spring-ai-2.0.1     stream explicit #2 ERROR   att=1 gaps=[] guard=- kind=- CompletionException < BadRequestException
+S06  spring-ai-2.0.1     stream explicit #3 ERROR   att=1 gaps=[] guard=- kind=- CompletionException < BadRequestException
+S06  spring-ai-2.0.1     stream guard    #1 ERROR   att=1 gaps=[] guard=failure/client-error/1 kind=- CompletionException < BadRequestException
+S06  spring-ai-2.0.1     stream guard    #2 ERROR   att=1 gaps=[] guard=failure/client-error/1 kind=- CompletionException < BadRequestException
+S06  spring-ai-2.0.1     stream guard    #3 ERROR   att=1 gaps=[] guard=failure/client-error/1 kind=- CompletionException < BadRequestException
+S06  langchain4j-1.21.0  sync   defaults #1 ERROR   att=1 gaps=[] guard=- kind=- InvalidRequestException < HttpException
+S06  langchain4j-1.21.0  sync   defaults #2 ERROR   att=1 gaps=[] guard=- kind=- InvalidRequestException < HttpException
+S06  langchain4j-1.21.0  sync   defaults #3 ERROR   att=1 gaps=[] guard=- kind=- InvalidRequestException < HttpException
+S06  langchain4j-1.21.0  sync   explicit #1 ERROR   att=1 gaps=[] guard=- kind=- InvalidRequestException < HttpException
+S06  langchain4j-1.21.0  sync   explicit #2 ERROR   att=1 gaps=[] guard=- kind=- InvalidRequestException < HttpException
+S06  langchain4j-1.21.0  sync   explicit #3 ERROR   att=1 gaps=[] guard=- kind=- InvalidRequestException < HttpException
+S06  langchain4j-1.21.0  sync   guard    #1 ERROR   att=1 gaps=[] guard=failure/client-error/1 kind=- InvalidRequestException < HttpException
+S06  langchain4j-1.21.0  sync   guard    #2 ERROR   att=1 gaps=[] guard=failure/client-error/1 kind=- InvalidRequestException < HttpException
+S06  langchain4j-1.21.0  sync   guard    #3 ERROR   att=1 gaps=[] guard=failure/client-error/1 kind=- InvalidRequestException < HttpException
+S06  langchain4j-1.21.0  stream defaults #1 ERROR   att=1 gaps=[] guard=- kind=- InvalidRequestException < HttpException
+S06  langchain4j-1.21.0  stream defaults #2 ERROR   att=1 gaps=[] guard=- kind=- InvalidRequestException < HttpException
+S06  langchain4j-1.21.0  stream defaults #3 ERROR   att=1 gaps=[] guard=- kind=- InvalidRequestException < HttpException
+S06  langchain4j-1.21.0  stream explicit #1 ERROR   att=1 gaps=[] guard=- kind=- InvalidRequestException < HttpException
+S06  langchain4j-1.21.0  stream explicit #2 ERROR   att=1 gaps=[] guard=- kind=- InvalidRequestException < HttpException
+S06  langchain4j-1.21.0  stream explicit #3 ERROR   att=1 gaps=[] guard=- kind=- InvalidRequestException < HttpException
+S06  langchain4j-1.21.0  stream guard    #1 ERROR   att=1 gaps=[] guard=failure/client-error/1 kind=- InvalidRequestException < HttpException
+S06  langchain4j-1.21.0  stream guard    #2 ERROR   att=1 gaps=[] guard=failure/client-error/1 kind=- InvalidRequestException < HttpException
+S06  langchain4j-1.21.0  stream guard    #3 ERROR   att=1 gaps=[] guard=failure/client-error/1 kind=- InvalidRequestException < HttpException
+S06  plain-java.net.http sync   guard    #1 ERROR   att=1 gaps=[] guard=failure/client-error/1 kind=- IllegalStateException
+S06  plain-java.net.http sync   guard    #2 ERROR   att=1 gaps=[] guard=failure/client-error/1 kind=- IllegalStateException
+S06  plain-java.net.http sync   guard    #3 ERROR   att=1 gaps=[] guard=failure/client-error/1 kind=- IllegalStateException
+S06  plain-java.net.http stream guard    #1 ERROR   att=1 gaps=[] guard=failure/client-error/1 kind=- IllegalStateException
+S06  plain-java.net.http stream guard    #2 ERROR   att=1 gaps=[] guard=failure/client-error/1 kind=- IllegalStateException
+S06  plain-java.net.http stream guard    #3 ERROR   att=1 gaps=[] guard=failure/client-error/1 kind=- IllegalStateException
+S07  spring-ai-2.0.1     sync   defaults #1 ERROR   att=1 gaps=[] guard=- kind=- UnauthorizedException
+S07  spring-ai-2.0.1     sync   defaults #2 ERROR   att=1 gaps=[] guard=- kind=- UnauthorizedException
+S07  spring-ai-2.0.1     sync   defaults #3 ERROR   att=1 gaps=[] guard=- kind=- UnauthorizedException
+S07  spring-ai-2.0.1     sync   explicit #1 ERROR   att=1 gaps=[] guard=- kind=- UnauthorizedException
+S07  spring-ai-2.0.1     sync   explicit #2 ERROR   att=1 gaps=[] guard=- kind=- UnauthorizedException
+S07  spring-ai-2.0.1     sync   explicit #3 ERROR   att=1 gaps=[] guard=- kind=- UnauthorizedException
+S07  spring-ai-2.0.1     sync   guard    #1 ERROR   att=1 gaps=[] guard=failure/authentication/1 kind=- UnauthorizedException
+S07  spring-ai-2.0.1     sync   guard    #2 ERROR   att=1 gaps=[] guard=failure/authentication/1 kind=- UnauthorizedException
+S07  spring-ai-2.0.1     sync   guard    #3 ERROR   att=1 gaps=[] guard=failure/authentication/1 kind=- UnauthorizedException
+S07  langchain4j-1.21.0  sync   defaults #1 ERROR   att=1 gaps=[] guard=- kind=- AuthenticationException < HttpException
+S07  langchain4j-1.21.0  sync   defaults #2 ERROR   att=1 gaps=[] guard=- kind=- AuthenticationException < HttpException
+S07  langchain4j-1.21.0  sync   defaults #3 ERROR   att=1 gaps=[] guard=- kind=- AuthenticationException < HttpException
+S07  langchain4j-1.21.0  sync   explicit #1 ERROR   att=1 gaps=[] guard=- kind=- AuthenticationException < HttpException
+S07  langchain4j-1.21.0  sync   explicit #2 ERROR   att=1 gaps=[] guard=- kind=- AuthenticationException < HttpException
+S07  langchain4j-1.21.0  sync   explicit #3 ERROR   att=1 gaps=[] guard=- kind=- AuthenticationException < HttpException
+S07  langchain4j-1.21.0  sync   guard    #1 ERROR   att=1 gaps=[] guard=failure/authentication/1 kind=- AuthenticationException < HttpException
+S07  langchain4j-1.21.0  sync   guard    #2 ERROR   att=1 gaps=[] guard=failure/authentication/1 kind=- AuthenticationException < HttpException
+S07  langchain4j-1.21.0  sync   guard    #3 ERROR   att=1 gaps=[] guard=failure/authentication/1 kind=- AuthenticationException < HttpException
+S07  plain-java.net.http sync   guard    #1 ERROR   att=1 gaps=[] guard=failure/authentication/1 kind=- IllegalStateException
+S07  plain-java.net.http sync   guard    #2 ERROR   att=1 gaps=[] guard=failure/authentication/1 kind=- IllegalStateException
+S07  plain-java.net.http sync   guard    #3 ERROR   att=1 gaps=[] guard=failure/authentication/1 kind=- IllegalStateException
+S08  spring-ai-2.0.1     sync   explicit #1 OK      att=2 gaps=[2405] guard=- kind=- 
+S08  spring-ai-2.0.1     sync   explicit #2 OK      att=2 gaps=[2475] guard=- kind=- 
+S08  spring-ai-2.0.1     sync   explicit #3 OK      att=2 gaps=[2472] guard=- kind=- 
+S08  spring-ai-2.0.1     sync   guard    #1 OK      att=2 gaps=[3488] guard=success/none/2 kind=- 
+S08  spring-ai-2.0.1     sync   guard    #2 OK      att=2 gaps=[3488] guard=success/none/2 kind=- 
+S08  spring-ai-2.0.1     sync   guard    #3 OK      att=2 gaps=[3488] guard=success/none/2 kind=- 
+S08  spring-ai-2.0.1     stream explicit #1 ERROR   att=1 gaps=[] guard=- kind=- CompletionException < OpenAIIoException < InterruptedIOException < SocketException
+S08  spring-ai-2.0.1     stream explicit #2 ERROR   att=1 gaps=[] guard=- kind=- CompletionException < OpenAIIoException < InterruptedIOException < SocketException
+S08  spring-ai-2.0.1     stream explicit #3 ERROR   att=1 gaps=[] guard=- kind=- CompletionException < OpenAIIoException < InterruptedIOException < SocketTimeoutException < SocketException
+S08  spring-ai-2.0.1     stream guard    #1 OK      att=2 gaps=[3488] guard=success/none/2 kind=- 
+S08  spring-ai-2.0.1     stream guard    #2 OK      att=2 gaps=[3491] guard=success/none/2 kind=- 
+S08  spring-ai-2.0.1     stream guard    #3 OK      att=2 gaps=[3487] guard=success/none/2 kind=- 
+S08  langchain4j-1.21.0  sync   explicit #1 OK      att=2 gaps=[2557] guard=- kind=- 
+S08  langchain4j-1.21.0  sync   explicit #2 OK      att=2 gaps=[2526] guard=- kind=- 
+S08  langchain4j-1.21.0  sync   explicit #3 OK      att=2 gaps=[2547] guard=- kind=- 
+S08  langchain4j-1.21.0  sync   guard    #1 OK      att=2 gaps=[3486] guard=success/none/2 kind=- 
+S08  langchain4j-1.21.0  sync   guard    #2 OK      att=2 gaps=[3487] guard=success/none/2 kind=- 
+S08  langchain4j-1.21.0  sync   guard    #3 OK      att=2 gaps=[3488] guard=success/none/2 kind=- 
+S08  langchain4j-1.21.0  stream explicit #1 ERROR   att=1 gaps=[] guard=- kind=- TimeoutException < CompletionException < HttpTimeoutException
+S08  langchain4j-1.21.0  stream explicit #2 ERROR   att=1 gaps=[] guard=- kind=- TimeoutException < CompletionException < HttpTimeoutException
+S08  langchain4j-1.21.0  stream explicit #3 ERROR   att=1 gaps=[] guard=- kind=- TimeoutException < CompletionException < HttpTimeoutException
+S08  langchain4j-1.21.0  stream guard    #1 OK      att=2 gaps=[3487] guard=success/none/2 kind=- 
+S08  langchain4j-1.21.0  stream guard    #2 OK      att=2 gaps=[3486] guard=success/none/2 kind=- 
+S08  langchain4j-1.21.0  stream guard    #3 OK      att=2 gaps=[3486] guard=success/none/2 kind=- 
+S08  plain-java.net.http sync   guard    #1 OK      att=2 gaps=[3487] guard=success/none/2 kind=- 
+S08  plain-java.net.http sync   guard    #2 OK      att=2 gaps=[3486] guard=success/none/2 kind=- 
+S08  plain-java.net.http sync   guard    #3 OK      att=2 gaps=[3487] guard=success/none/2 kind=- 
+S08  plain-java.net.http stream guard    #1 OK      att=2 gaps=[3486] guard=success/none/2 kind=- 
+S08  plain-java.net.http stream guard    #2 OK      att=2 gaps=[3488] guard=success/none/2 kind=- 
+S08  plain-java.net.http stream guard    #3 OK      att=2 gaps=[3489] guard=success/none/2 kind=- 
+S09  spring-ai-2.0.1     sync   defaults #1 ERROR   att=1 gaps=[] guard=- kind=- OpenAIInvalidDataException < JsonMappingException < JsonEOFException
+S09  spring-ai-2.0.1     sync   defaults #2 ERROR   att=1 gaps=[] guard=- kind=- OpenAIInvalidDataException < JsonMappingException < JsonEOFException
+S09  spring-ai-2.0.1     sync   defaults #3 ERROR   att=1 gaps=[] guard=- kind=- OpenAIInvalidDataException < JsonMappingException < JsonEOFException
+S09  spring-ai-2.0.1     sync   explicit #1 ERROR   att=1 gaps=[] guard=- kind=- OpenAIInvalidDataException < JsonMappingException < JsonEOFException
+S09  spring-ai-2.0.1     sync   explicit #2 ERROR   att=1 gaps=[] guard=- kind=- OpenAIInvalidDataException < JsonMappingException < JsonEOFException
+S09  spring-ai-2.0.1     sync   explicit #3 ERROR   att=1 gaps=[] guard=- kind=- OpenAIInvalidDataException < JsonMappingException < JsonEOFException
+S09  spring-ai-2.0.1     sync   guard    #1 ERROR   att=1 gaps=[] guard=failure/malformed-response/1 kind=malformed-response OpenAIIoException < GuardException
+S09  spring-ai-2.0.1     sync   guard    #2 ERROR   att=1 gaps=[] guard=failure/malformed-response/1 kind=malformed-response OpenAIIoException < GuardException
+S09  spring-ai-2.0.1     sync   guard    #3 ERROR   att=1 gaps=[] guard=failure/malformed-response/1 kind=malformed-response OpenAIIoException < GuardException
+S09  langchain4j-1.21.0  sync   defaults #1 ERROR   att=3 gaps=[561, 774] guard=- kind=- RuntimeException < JsonMappingException < JsonEOFException
+S09  langchain4j-1.21.0  sync   defaults #2 ERROR   att=3 gaps=[509, 764] guard=- kind=- RuntimeException < JsonMappingException < JsonEOFException
+S09  langchain4j-1.21.0  sync   defaults #3 ERROR   att=3 gaps=[565, 803] guard=- kind=- RuntimeException < JsonMappingException < JsonEOFException
+S09  langchain4j-1.21.0  sync   explicit #1 ERROR   att=3 gaps=[505, 859] guard=- kind=- RuntimeException < JsonMappingException < JsonEOFException
+S09  langchain4j-1.21.0  sync   explicit #2 ERROR   att=3 gaps=[555, 793] guard=- kind=- RuntimeException < JsonMappingException < JsonEOFException
+S09  langchain4j-1.21.0  sync   explicit #3 ERROR   att=3 gaps=[588, 799] guard=- kind=- RuntimeException < JsonMappingException < JsonEOFException
+S09  langchain4j-1.21.0  sync   guard    #1 ERROR   att=1 gaps=[] guard=failure/malformed-response/1 kind=malformed-response RuntimeException < GuardException
+S09  langchain4j-1.21.0  sync   guard    #2 ERROR   att=1 gaps=[] guard=failure/malformed-response/1 kind=malformed-response RuntimeException < GuardException
+S09  langchain4j-1.21.0  sync   guard    #3 ERROR   att=1 gaps=[] guard=failure/malformed-response/1 kind=malformed-response RuntimeException < GuardException
+S09  plain-java.net.http sync   guard    #1 ERROR   att=1 gaps=[] guard=failure/malformed-response/1 kind=malformed-response UncheckedIOException < GuardException
+S09  plain-java.net.http sync   guard    #2 ERROR   att=1 gaps=[] guard=failure/malformed-response/1 kind=malformed-response UncheckedIOException < GuardException
+S09  plain-java.net.http sync   guard    #3 ERROR   att=1 gaps=[] guard=failure/malformed-response/1 kind=malformed-response UncheckedIOException < GuardException
+S10  spring-ai-2.0.1     sync   defaults #1 PARTIAL att=1 gaps=[] guard=- kind=- 
+S10  spring-ai-2.0.1     sync   defaults #2 PARTIAL att=1 gaps=[] guard=- kind=- 
+S10  spring-ai-2.0.1     sync   defaults #3 PARTIAL att=1 gaps=[] guard=- kind=- 
+S10  spring-ai-2.0.1     sync   explicit #1 PARTIAL att=1 gaps=[] guard=- kind=- 
+S10  spring-ai-2.0.1     sync   explicit #2 PARTIAL att=1 gaps=[] guard=- kind=- 
+S10  spring-ai-2.0.1     sync   explicit #3 PARTIAL att=1 gaps=[] guard=- kind=- 
+S10  spring-ai-2.0.1     sync   guard    #1 ERROR   att=1 gaps=[] guard=failure/empty-response/1 kind=empty-response OpenAIIoException < GuardException
+S10  spring-ai-2.0.1     sync   guard    #2 ERROR   att=1 gaps=[] guard=failure/empty-response/1 kind=empty-response OpenAIIoException < GuardException
+S10  spring-ai-2.0.1     sync   guard    #3 ERROR   att=1 gaps=[] guard=failure/empty-response/1 kind=empty-response OpenAIIoException < GuardException
+S10  langchain4j-1.21.0  sync   defaults #1 ERROR   att=1 gaps=[] guard=- kind=- InternalServerException
+S10  langchain4j-1.21.0  sync   defaults #2 ERROR   att=1 gaps=[] guard=- kind=- InternalServerException
+S10  langchain4j-1.21.0  sync   defaults #3 ERROR   att=1 gaps=[] guard=- kind=- InternalServerException
+S10  langchain4j-1.21.0  sync   explicit #1 ERROR   att=1 gaps=[] guard=- kind=- InternalServerException
+S10  langchain4j-1.21.0  sync   explicit #2 ERROR   att=1 gaps=[] guard=- kind=- InternalServerException
+S10  langchain4j-1.21.0  sync   explicit #3 ERROR   att=1 gaps=[] guard=- kind=- InternalServerException
+S10  langchain4j-1.21.0  sync   guard    #1 ERROR   att=1 gaps=[] guard=failure/empty-response/1 kind=empty-response RuntimeException < GuardException
+S10  langchain4j-1.21.0  sync   guard    #2 ERROR   att=1 gaps=[] guard=failure/empty-response/1 kind=empty-response RuntimeException < GuardException
+S10  langchain4j-1.21.0  sync   guard    #3 ERROR   att=1 gaps=[] guard=failure/empty-response/1 kind=empty-response RuntimeException < GuardException
+S10  plain-java.net.http sync   guard    #1 ERROR   att=1 gaps=[] guard=failure/empty-response/1 kind=empty-response UncheckedIOException < GuardException
+S10  plain-java.net.http sync   guard    #2 ERROR   att=1 gaps=[] guard=failure/empty-response/1 kind=empty-response UncheckedIOException < GuardException
+S10  plain-java.net.http sync   guard    #3 ERROR   att=1 gaps=[] guard=failure/empty-response/1 kind=empty-response UncheckedIOException < GuardException
+S11  spring-ai-2.0.1     stream defaults #1 PARTIAL att=1 gaps=[] guard=- kind=- 
+S11  spring-ai-2.0.1     stream defaults #2 PARTIAL att=1 gaps=[] guard=- kind=- 
+S11  spring-ai-2.0.1     stream defaults #3 PARTIAL att=1 gaps=[] guard=- kind=- 
+S11  spring-ai-2.0.1     stream explicit #1 PARTIAL att=1 gaps=[] guard=- kind=- 
+S11  spring-ai-2.0.1     stream explicit #2 PARTIAL att=1 gaps=[] guard=- kind=- 
+S11  spring-ai-2.0.1     stream explicit #3 PARTIAL att=1 gaps=[] guard=- kind=- 
+S11  spring-ai-2.0.1     stream guard    #1 ERROR   att=1 gaps=[] guard=failure/stream-truncated/1 kind=stream-truncated OpenAIIoException < GuardException
+S11  spring-ai-2.0.1     stream guard    #2 ERROR   att=1 gaps=[] guard=failure/stream-truncated/1 kind=stream-truncated OpenAIIoException < GuardException
+S11  spring-ai-2.0.1     stream guard    #3 ERROR   att=1 gaps=[] guard=failure/stream-truncated/1 kind=stream-truncated OpenAIIoException < GuardException
+S11  langchain4j-1.21.0  stream defaults #1 PARTIAL att=1 gaps=[] guard=- kind=- 
+S11  langchain4j-1.21.0  stream defaults #2 PARTIAL att=1 gaps=[] guard=- kind=- 
+S11  langchain4j-1.21.0  stream defaults #3 PARTIAL att=1 gaps=[] guard=- kind=- 
+S11  langchain4j-1.21.0  stream explicit #1 PARTIAL att=1 gaps=[] guard=- kind=- 
+S11  langchain4j-1.21.0  stream explicit #2 PARTIAL att=1 gaps=[] guard=- kind=- 
+S11  langchain4j-1.21.0  stream explicit #3 PARTIAL att=1 gaps=[] guard=- kind=- 
+S11  langchain4j-1.21.0  stream guard    #1 ERROR   att=1 gaps=[] guard=failure/stream-truncated/1 kind=stream-truncated LangChain4jException < GuardException
+S11  langchain4j-1.21.0  stream guard    #2 ERROR   att=1 gaps=[] guard=failure/stream-truncated/1 kind=stream-truncated LangChain4jException < GuardException
+S11  langchain4j-1.21.0  stream guard    #3 ERROR   att=1 gaps=[] guard=failure/stream-truncated/1 kind=stream-truncated LangChain4jException < GuardException
+S11  plain-java.net.http stream guard    #1 ERROR   att=1 gaps=[] guard=failure/stream-truncated/1 kind=stream-truncated UncheckedIOException < GuardException
+S11  plain-java.net.http stream guard    #2 ERROR   att=1 gaps=[] guard=failure/stream-truncated/1 kind=stream-truncated UncheckedIOException < GuardException
+S11  plain-java.net.http stream guard    #3 ERROR   att=1 gaps=[] guard=failure/stream-truncated/1 kind=stream-truncated UncheckedIOException < GuardException
+S12  spring-ai-2.0.1     stream defaults #1 ERROR   att=1 gaps=[] guard=- kind=- SseException
+S12  spring-ai-2.0.1     stream defaults #2 ERROR   att=1 gaps=[] guard=- kind=- SseException
+S12  spring-ai-2.0.1     stream defaults #3 ERROR   att=1 gaps=[] guard=- kind=- SseException
+S12  spring-ai-2.0.1     stream explicit #1 ERROR   att=1 gaps=[] guard=- kind=- SseException
+S12  spring-ai-2.0.1     stream explicit #2 ERROR   att=1 gaps=[] guard=- kind=- SseException
+S12  spring-ai-2.0.1     stream explicit #3 ERROR   att=1 gaps=[] guard=- kind=- SseException
+S12  spring-ai-2.0.1     stream guard    #1 ERROR   att=1 gaps=[] guard=failure/stream-error-event/1 kind=stream-error-event OpenAIIoException < GuardException
+S12  spring-ai-2.0.1     stream guard    #2 ERROR   att=1 gaps=[] guard=failure/stream-error-event/1 kind=stream-error-event OpenAIIoException < GuardException
+S12  spring-ai-2.0.1     stream guard    #3 ERROR   att=1 gaps=[] guard=failure/stream-error-event/1 kind=stream-error-event OpenAIIoException < GuardException
+S12  langchain4j-1.21.0  stream defaults #1 PARTIAL att=1 gaps=[] guard=- kind=- 
+S12  langchain4j-1.21.0  stream defaults #2 PARTIAL att=1 gaps=[] guard=- kind=- 
+S12  langchain4j-1.21.0  stream defaults #3 PARTIAL att=1 gaps=[] guard=- kind=- 
+S12  langchain4j-1.21.0  stream explicit #1 PARTIAL att=1 gaps=[] guard=- kind=- 
+S12  langchain4j-1.21.0  stream explicit #2 PARTIAL att=1 gaps=[] guard=- kind=- 
+S12  langchain4j-1.21.0  stream explicit #3 PARTIAL att=1 gaps=[] guard=- kind=- 
+S12  langchain4j-1.21.0  stream guard    #1 ERROR   att=1 gaps=[] guard=failure/stream-error-event/1 kind=stream-error-event LangChain4jException < GuardException
+S12  langchain4j-1.21.0  stream guard    #2 ERROR   att=1 gaps=[] guard=failure/stream-error-event/1 kind=stream-error-event LangChain4jException < GuardException
+S12  langchain4j-1.21.0  stream guard    #3 ERROR   att=1 gaps=[] guard=failure/stream-error-event/1 kind=stream-error-event LangChain4jException < GuardException
+S12  plain-java.net.http stream guard    #1 ERROR   att=1 gaps=[] guard=failure/stream-error-event/1 kind=stream-error-event UncheckedIOException < GuardException
+S12  plain-java.net.http stream guard    #2 ERROR   att=1 gaps=[] guard=failure/stream-error-event/1 kind=stream-error-event UncheckedIOException < GuardException
+S12  plain-java.net.http stream guard    #3 ERROR   att=1 gaps=[] guard=failure/stream-error-event/1 kind=stream-error-event UncheckedIOException < GuardException
+S13  spring-ai-2.0.1     stream explicit #1 ERROR   att=1 gaps=[] guard=- kind=- OpenAIIoException < InterruptedIOException < SocketException
+S13  spring-ai-2.0.1     stream explicit #2 ERROR   att=1 gaps=[] guard=- kind=- OpenAIIoException < InterruptedIOException < SocketException
+S13  spring-ai-2.0.1     stream explicit #3 ERROR   att=1 gaps=[] guard=- kind=- OpenAIIoException < InterruptedIOException < SocketException
+S13  spring-ai-2.0.1     stream guard    #1 OK      att=1 gaps=[] guard=success/none/1 kind=- 
+S13  spring-ai-2.0.1     stream guard    #2 OK      att=1 gaps=[] guard=success/none/1 kind=- 
+S13  spring-ai-2.0.1     stream guard    #3 OK      att=1 gaps=[] guard=success/none/1 kind=- 
+S13  langchain4j-1.21.0  stream explicit #1 OK      att=1 gaps=[] guard=- kind=- 
+S13  langchain4j-1.21.0  stream explicit #2 OK      att=1 gaps=[] guard=- kind=- 
+S13  langchain4j-1.21.0  stream explicit #3 OK      att=1 gaps=[] guard=- kind=- 
+S13  langchain4j-1.21.0  stream guard    #1 OK      att=1 gaps=[] guard=success/none/1 kind=- 
+S13  langchain4j-1.21.0  stream guard    #2 OK      att=1 gaps=[] guard=success/none/1 kind=- 
+S13  langchain4j-1.21.0  stream guard    #3 OK      att=1 gaps=[] guard=success/none/1 kind=- 
+S13  plain-java.net.http stream guard    #1 OK      att=1 gaps=[] guard=success/none/1 kind=- 
+S13  plain-java.net.http stream guard    #2 OK      att=1 gaps=[] guard=success/none/1 kind=- 
+S13  plain-java.net.http stream guard    #3 OK      att=1 gaps=[] guard=success/none/1 kind=- 
+S14  spring-ai-2.0.1     sync   defaults #1 ERROR   att=4 gaps=[60487, 60903, 61639] guard=- kind=- OpenAIIoException < InterruptedIOException < SocketException
+S14  spring-ai-2.0.1     sync   guard    #1 ERROR   att=3 gaps=[3491, 3653] guard=failure/no-response/3 kind=no-response OpenAIIoException < GuardException < SocketTimeoutException < SocketException
+S14  langchain4j-1.21.0  sync   defaults #1 ERROR   att=3 gaps=[60596, 60882] guard=- kind=- TimeoutException < HttpTimeoutException
+S14  langchain4j-1.21.0  sync   guard    #1 ERROR   att=3 gaps=[3498, 3651] guard=failure/no-response/3 kind=no-response TimeoutException < GuardException < TimeoutException
+S14  plain-java.net.http sync   guard    #1 ERROR   att=3 gaps=[3489, 3652] guard=failure/no-response/3 kind=no-response UncheckedIOException < GuardException < TimeoutException
+S15  spring-ai-2.0.1     stream defaults #1 ERROR   att=1 gaps=[] guard=- kind=- OpenAIIoException < InterruptedIOException < SocketException
+S15  spring-ai-2.0.1     stream guard    #1 ERROR   att=3 gaps=[3501, 3767] guard=failure/no-response/3 kind=no-response CompletionException < OpenAIIoException < GuardException < Silence
+S15  langchain4j-1.21.0  stream defaults #1 OK      att=1 gaps=[] guard=- kind=- 
+S15  langchain4j-1.21.0  stream guard    #1 ERROR   att=3 gaps=[3507, 3664] guard=failure/no-response/3 kind=no-response TimeoutException < GuardException < Silence
+S15  plain-java.net.http stream guard    #1 ERROR   att=3 gaps=[3493, 3655] guard=failure/no-response/3 kind=no-response UncheckedIOException < GuardException < Silence
+wrote results\outcomes.csv

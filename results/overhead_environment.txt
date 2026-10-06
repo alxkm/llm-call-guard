@@ -1,0 +1,1 @@
+note: run on 2026-10-06 while a local model server (Ollama, GPU) served another experiment on the same machine; the mock provider and both clients ran on the CPU over loopback

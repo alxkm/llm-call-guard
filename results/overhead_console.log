@@ -1,0 +1,13 @@
+spring-ai-2.0.1,sync,2000,582,645,3325,4312,63,987
+langchain4j-1.21.0,sync,2000,621,653,2172,2373,32,201
+plain-java.net.http,sync,2000,325,364,914,1004,39,90
+spring-ai-2.0.1,stream,2000,839,977,3938,4514,138,576
+langchain4j-1.21.0,stream,2000,522,739,1705,2322,217,617
+plain-java.net.http,stream,2000,358,513,804,1117,155,313
+client,mode,calls,native_median_us,guard_median_us,native_p95_us,guard_p95_us,added_median_us,added_p95_us
+spring-ai-2.0.1,sync,2000,582,645,3325,4312,63,987
+langchain4j-1.21.0,sync,2000,621,653,2172,2373,32,201
+plain-java.net.http,sync,2000,325,364,914,1004,39,90
+spring-ai-2.0.1,stream,2000,839,977,3938,4514,138,576
+langchain4j-1.21.0,stream,2000,522,739,1705,2322,217,617
+plain-java.net.http,stream,2000,358,513,804,1117,155,313

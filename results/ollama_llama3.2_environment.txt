@@ -1,0 +1,5 @@
+run: 2026-10-06T10:18:47.462344800+02:00[Europe/Berlin]
+model: llama3.2
+base: http://localhost:11434/v1
+calls per cell: 50
+guard policy: Policy[maxAttempts=3, responseTimeout=PT1M, firstEventTimeout=PT30S, idleTimeout=PT30S, totalBudget=PT5M, backoffBase=PT0.5S, backoffCap=PT8S, retryAfterCap=PT30S, jitter=0.5]

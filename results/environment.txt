@@ -1,0 +1,7 @@
+run: 2026-10-06, main study; outcomes.csv written 2026-10-06T10:31+02:00 (Europe/Berlin clock of the machine)
+java: OpenJDK 64-Bit Server VM 21
+os: Windows 10
+spring-ai 2.0.1, openai-java-core 4.49.0, langchain4j 1.21.0, langchain4j-micrometer-metrics 1.21.0-beta31, micrometer 1.17.1, okhttp 4.12.0
+repetitions: 3 (S14, S15: 1)
+guard policy: Policy[maxAttempts=3, responseTimeout=PT3S, firstEventTimeout=PT3S, idleTimeout=PT10S, totalBudget=PT1M, backoffBase=PT0.5S, backoffCap=PT8S, retryAfterCap=PT30S, jitter=0.5]
+note: this file was rewritten by hand after a supplementary run overwrote it; the policy line is the default of Clients.STUDY_POLICY
