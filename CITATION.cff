@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software or its results, please cite it as below."
-title: "llm-call-guard: one reliability contract for language-model calls beneath Spring AI and LangChain4j"
+title: "llm-call-guard: consistent handling of provider failures in large language model calls, beneath Spring AI and LangChain4j"
 authors:
   - family-names: Klymenko
     given-names: Oleksandr
