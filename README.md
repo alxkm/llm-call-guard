@@ -1,5 +1,8 @@
 # llm-call-guard
 
+Code and results for the paper *One Reliability Contract Beneath Two Frameworks: Uniform Handling of Provider
+Failures for Language-Model Calls in Java* (O. Klymenko, 2026). Figures: `python scripts/figures.py` → `results/figures/`.
+
 A reliability layer for calls to OpenAI-compatible model endpoints (OpenAI, Azure OpenAI, Ollama, vLLM and others)
 that sits **beneath** the Java integration frameworks, at the HTTP boundary, so that one implementation gives the
 same behaviour under **Spring AI**, under **LangChain4j**, and with no framework at all.
